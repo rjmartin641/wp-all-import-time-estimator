@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "WP All Import Time Estimator",
+  "version": "1.0",
+  "description": "Estimates remaining time on WP All Import Pro import jobs.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
