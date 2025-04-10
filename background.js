@@ -1,1 +1,0 @@
-// Background script placeholder for manifest v3
